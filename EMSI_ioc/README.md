@@ -1,8 +1,6 @@
 # 1.Introduction
 
-
-
-
+Applications maintenance that are open to modification is very hard, that's why we use the concept of applications open to extension and closed to modifications that lets us use interfaces to implement different versions.
 
 # 2.Enonce
 
@@ -42,8 +40,6 @@ sensors version :
 
 ![DaoImpl2](images/DaoImpl2.png)
 
-
-
 ## 2.Using Dynamic instanciation:
 
 database version:
@@ -53,8 +49,6 @@ database version:
 sensors version:
 
 ![DynamicDaoImpl2](images/DynamicImpl2.png)
-
-
 
 # 6.Conclusion
 
