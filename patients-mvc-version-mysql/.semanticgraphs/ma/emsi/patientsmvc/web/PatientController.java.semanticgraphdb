@@ -1,0 +1,369 @@
+
+nC:\Users\proev\Desktop\patients-mvc-version-mysql\src\main\java\ma\emsi\patientsmvc\web\PatientController.javaÂ
+)ma.emsi.patientsmvc.web.PatientControllerCLASSx
+nC:\Users\proev\Desktop\patients-mvc-version-mysql\src\main\java\ma\emsi\patientsmvc\web\PatientController.java (""
+packagema.emsi.patientsmvc.web"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"ÿ
+declarationString¬<mark class="annotation">@Controller</mark> <br><mark class="annotation">@AllArgsConstructor</mark> <br><mark class="modifier">public </mark><mark class="modifier">class </mark>PatientController"
+accesspublic*PatientController2Ù
+kma.emsi.patientsmvc.web.PatientController.patient(org.springframework.ui.Model, int, int, java.lang.String)DECLARATIONx
+nC:\Users\proev\Desktop\patients-mvc-version-mysql\src\main\java\ma\emsi\patientsmvc\web\PatientController.java (2‡
+Wma.emsi.patientsmvc.web.PatientController.delete(java.lang.Long, java.lang.String, int)DECLARATIONx
+nC:\Users\proev\Desktop\patients-mvc-version-mysql\src\main\java\ma\emsi\patientsmvc\web\PatientController.java' '(2π
+0ma.emsi.patientsmvc.web.PatientController.home()DECLARATIONx
+nC:\Users\proev\Desktop\patients-mvc-version-mysql\src\main\java\ma\emsi\patientsmvc\web\PatientController.java- -(2¿
+7ma.emsi.patientsmvc.web.PatientController.listPatient()DECLARATIONx
+nC:\Users\proev\Desktop\patients-mvc-version-mysql\src\main\java\ma\emsi\patientsmvc\web\PatientController.java3 3($2›
+Tma.emsi.patientsmvc.web.PatientController.formPatients(org.springframework.ui.Model)DECLARATIONx
+nC:\Users\proev\Desktop\patients-mvc-version-mysql\src\main\java\ma\emsi\patientsmvc\web\PatientController.java8 8(2¡
+∑ma.emsi.patientsmvc.web.PatientController.save(org.springframework.ui.Model, ma.emsi.patientsmvc.entities.Patient, org.springframework.validation.BindingResult, int, java.lang.String)DECLARATIONx
+nC:\Users\proev\Desktop\patients-mvc-version-mysql\src\main\java\ma\emsi\patientsmvc\web\PatientController.java> >(2Ñ
+{ma.emsi.patientsmvc.web.PatientController.editPatients(org.springframework.ui.Model, java.lang.Long, java.lang.String, int)DECLARATIONx
+nC:\Users\proev\Desktop\patients-mvc-version-mysql\src\main\java\ma\emsi\patientsmvc\web\PatientController.javaE E(2—
+Hma.emsi.patientsmvc.web.PatientController?patientRepositorie@22.31:22.49DECLARATIONx
+nC:\Users\proev\Desktop\patients-mvc-version-mysql\src\main\java\ma\emsi\patientsmvc\web\PatientController.java (1Î'
+kma.emsi.patientsmvc.web.PatientController.patient(org.springframework.ui.Model, int, int, java.lang.String)METHODx
+nC:\Users\proev\Desktop\patients-mvc-version-mysql\src\main\java\ma\emsi\patientsmvc\web\PatientController.java ("
+isFinalfalse"Û
+declarationString› = "size"<mark class="modifier"><mark class="modifier">,</mark></mark> defaultValue = "5") <mark class="modifier">int</mark> size<mark class="modifier"><mark class="modifier">,</mark></mark> <mark class="annotation">@RequestParam(name</mark> = "keyword"<mark class="modifier"><mark class="modifier">,</mark></mark> defaultValue = "") String keyword)"
+isStaticfalse"
+accesspublic"
+
+isAbstractfalse"
+typeString*patient2 
+Hma.emsi.patientsmvc.web.PatientController?patientRepositorie@22.31:22.49CALLx
+nC:\Users\proev\Desktop\patients-mvc-version-mysql\src\main\java\ma\emsi\patientsmvc\web\PatientController.java# (52ı
+sma.emsi.patientsmvc.web.PatientController.patient(org.springframework.ui.Model, int, int, java.lang.String)!keywordCALLx
+nC:\Users\proev\Desktop\patients-mvc-version-mysql\src\main\java\ma\emsi\patientsmvc\web\PatientController.javaH (O2Ú
+pma.emsi.patientsmvc.web.PatientController.patient(org.springframework.ui.Model, int, int, java.lang.String)!pageCALLx
+nC:\Users\proev\Desktop\patients-mvc-version-mysql\src\main\java\ma\emsi\patientsmvc\web\PatientController.java_ (c2Ú
+pma.emsi.patientsmvc.web.PatientController.patient(org.springframework.ui.Model, int, int, java.lang.String)!sizeCALLx
+nC:\Users\proev\Desktop\patients-mvc-version-mysql\src\main\java\ma\emsi\patientsmvc\web\PatientController.javad (h2Û
+qma.emsi.patientsmvc.web.PatientController.patient(org.springframework.ui.Model, int, int, java.lang.String)!modelCALLx
+nC:\Users\proev\Desktop\patients-mvc-version-mysql\src\main\java\ma\emsi\patientsmvc\web\PatientController.java (2á
+Ñma.emsi.patientsmvc.web.PatientController.patient(org.springframework.ui.Model, int, int, java.lang.String)?pagePatients@29.22:29.34CALLx
+nC:\Users\proev\Desktop\patients-mvc-version-mysql\src\main\java\ma\emsi\patientsmvc\web\PatientController.java) (52Û
+qma.emsi.patientsmvc.web.PatientController.patient(org.springframework.ui.Model, int, int, java.lang.String)!modelCALLx
+nC:\Users\proev\Desktop\patients-mvc-version-mysql\src\main\java\ma\emsi\patientsmvc\web\PatientController.java (2á
+Ñma.emsi.patientsmvc.web.PatientController.patient(org.springframework.ui.Model, int, int, java.lang.String)?pagePatients@29.22:29.34CALLx
+nC:\Users\proev\Desktop\patients-mvc-version-mysql\src\main\java\ma\emsi\patientsmvc\web\PatientController.java+ (72Û
+qma.emsi.patientsmvc.web.PatientController.patient(org.springframework.ui.Model, int, int, java.lang.String)!modelCALLx
+nC:\Users\proev\Desktop\patients-mvc-version-mysql\src\main\java\ma\emsi\patientsmvc\web\PatientController.java   (2Ú
+pma.emsi.patientsmvc.web.PatientController.patient(org.springframework.ui.Model, int, int, java.lang.String)!pageCALLx
+nC:\Users\proev\Desktop\patients-mvc-version-mysql\src\main\java\ma\emsi\patientsmvc\web\PatientController.java )  (-2Û
+qma.emsi.patientsmvc.web.PatientController.patient(org.springframework.ui.Model, int, int, java.lang.String)!modelCALLx
+nC:\Users\proev\Desktop\patients-mvc-version-mysql\src\main\java\ma\emsi\patientsmvc\web\PatientController.java! !(2ı
+sma.emsi.patientsmvc.web.PatientController.patient(org.springframework.ui.Model, int, int, java.lang.String)!keywordCALLx
+nC:\Users\proev\Desktop\patients-mvc-version-mysql\src\main\java\ma\emsi\patientsmvc\web\PatientController.java!% !(,2¯
+qma.emsi.patientsmvc.web.PatientController.patient(org.springframework.ui.Model, int, int, java.lang.String)!model	PARAMETERx
+nC:\Users\proev\Desktop\patients-mvc-version-mysql\src\main\java\ma\emsi\patientsmvc\web\PatientController.java  (%2˜
+pma.emsi.patientsmvc.web.PatientController.patient(org.springframework.ui.Model, int, int, java.lang.String)!page	PARAMETERx
+nC:\Users\proev\Desktop\patients-mvc-version-mysql\src\main\java\ma\emsi\patientsmvc\web\PatientController.javaN (R2˜
+pma.emsi.patientsmvc.web.PatientController.patient(org.springframework.ui.Model, int, int, java.lang.String)!size	PARAMETERx
+nC:\Users\proev\Desktop\patients-mvc-version-mysql\src\main\java\ma\emsi\patientsmvc\web\PatientController.javaN (R2˙
+sma.emsi.patientsmvc.web.PatientController.patient(org.springframework.ui.Model, int, int, java.lang.String)!keyword	PARAMETERx
+nC:\Users\proev\Desktop\patients-mvc-version-mysql\src\main\java\ma\emsi\patientsmvc\web\PatientController.javaS (Z2é
+Ñma.emsi.patientsmvc.web.PatientController.patient(org.springframework.ui.Model, int, int, java.lang.String)?pagePatients@29.22:29.34DECLARATIONx
+nC:\Users\proev\Desktop\patients-mvc-version-mysql\src\main\java\ma\emsi\patientsmvc\web\PatientController.java ("2ô
+java.lang.StringRETURN_TYPEx
+nC:\Users\proev\Desktop\patients-mvc-version-mysql\src\main\java\ma\emsi\patientsmvc\web\PatientController.java (ã
+Ñma.emsi.patientsmvc.web.PatientController.patient(org.springframework.ui.Model, int, int, java.lang.String)?pagePatients@29.22:29.34VARIABLEx
+nC:\Users\proev\Desktop\patients-mvc-version-mysql\src\main\java\ma\emsi\patientsmvc\web\PatientController.java (""
+typePage<Patient>"
+isFinalfalse"º
+declarationString¶<mark class="modifier"> </mark>Page<Patient> <mark class="class-field">pagePatients</mark> = patientRepositorie.findByNomContains(keyword, PageRequest.of(page, size))*pagePatients2¶
+$org.springframework.data.domain.PageTYPEx
+nC:\Users\proev\Desktop\patients-mvc-version-mysql\src\main\java\ma\emsi\patientsmvc\web\PatientController.java (2Ø
+$ma.emsi.patientsmvc.entities.PatientTYPE_ARGUMENTx
+nC:\Users\proev\Desktop\patients-mvc-version-mysql\src\main\java\ma\emsi\patientsmvc\web\PatientController.java (2 
+Hma.emsi.patientsmvc.web.PatientController?patientRepositorie@22.31:22.49CALLx
+nC:\Users\proev\Desktop\patients-mvc-version-mysql\src\main\java\ma\emsi\patientsmvc\web\PatientController.java# (52ı
+sma.emsi.patientsmvc.web.PatientController.patient(org.springframework.ui.Model, int, int, java.lang.String)!keywordCALLx
+nC:\Users\proev\Desktop\patients-mvc-version-mysql\src\main\java\ma\emsi\patientsmvc\web\PatientController.javaH (O2Ú
+pma.emsi.patientsmvc.web.PatientController.patient(org.springframework.ui.Model, int, int, java.lang.String)!pageCALLx
+nC:\Users\proev\Desktop\patients-mvc-version-mysql\src\main\java\ma\emsi\patientsmvc\web\PatientController.java_ (c2Ú
+pma.emsi.patientsmvc.web.PatientController.patient(org.springframework.ui.Model, int, int, java.lang.String)!sizeCALLx
+nC:\Users\proev\Desktop\patients-mvc-version-mysql\src\main\java\ma\emsi\patientsmvc\web\PatientController.javad (h„
+qma.emsi.patientsmvc.web.PatientController.patient(org.springframework.ui.Model, int, int, java.lang.String)!model	PARAMETERx
+nC:\Users\proev\Desktop\patients-mvc-version-mysql\src\main\java\ma\emsi\patientsmvc\web\PatientController.java  (%"
+typeModel"
+isFinalfalse" 
+declarationStringModel model*model2û
+org.springframework.ui.ModelTYPEx
+nC:\Users\proev\Desktop\patients-mvc-version-mysql\src\main\java\ma\emsi\patientsmvc\web\PatientController.java (“
+pma.emsi.patientsmvc.web.PatientController.patient(org.springframework.ui.Model, int, int, java.lang.String)!page	PARAMETERx
+nC:\Users\proev\Desktop\patients-mvc-version-mysql\src\main\java\ma\emsi\patientsmvc\web\PatientController.javaN (R"
+typeint"
+isFinalfalse"´
+declarationStringï<mark class="annotation">@RequestParam(name = "page"<mark class="modifier">,</mark> defaultValue = "0")</mark> <mark class="modifier">int</mark> page*page2Ö
+intTYPEx
+nC:\Users\proev\Desktop\patients-mvc-version-mysql\src\main\java\ma\emsi\patientsmvc\web\PatientController.javaJ (M“
+pma.emsi.patientsmvc.web.PatientController.patient(org.springframework.ui.Model, int, int, java.lang.String)!size	PARAMETERx
+nC:\Users\proev\Desktop\patients-mvc-version-mysql\src\main\java\ma\emsi\patientsmvc\web\PatientController.javaN (R"
+typeint"
+isFinalfalse"´
+declarationStringï<mark class="annotation">@RequestParam(name = "size"<mark class="modifier">,</mark> defaultValue = "5")</mark> <mark class="modifier">int</mark> size*size2Ö
+intTYPEx
+nC:\Users\proev\Desktop\patients-mvc-version-mysql\src\main\java\ma\emsi\patientsmvc\web\PatientController.javaJ (M—
+sma.emsi.patientsmvc.web.PatientController.patient(org.springframework.ui.Model, int, int, java.lang.String)!keyword	PARAMETERx
+nC:\Users\proev\Desktop\patients-mvc-version-mysql\src\main\java\ma\emsi\patientsmvc\web\PatientController.javaS (Z"
+typeString"
+isFinalfalse"î
+declarationString<mark class="annotation">@RequestParam(name = "keyword"<mark class="modifier">,</mark> defaultValue = "")</mark> String keyword*keyword2í
+java.lang.StringTYPEx
+nC:\Users\proev\Desktop\patients-mvc-version-mysql\src\main\java\ma\emsi\patientsmvc\web\PatientController.javaL (R⁄
+Wma.emsi.patientsmvc.web.PatientController.delete(java.lang.Long, java.lang.String, int)METHODx
+nC:\Users\proev\Desktop\patients-mvc-version-mysql\src\main\java\ma\emsi\patientsmvc\web\PatientController.java' '("
+isFinalfalse"ÿ
+declarationString¬<mark class="annotation">@GetMapping("/delete")</mark> <br><mark class="modifier">public </mark>String <mark class="method">delete</mark>(Long id<mark class="modifier"><mark class="modifier">,</mark></mark> String keyword<mark class="modifier"><mark class="modifier">,</mark></mark> <mark class="modifier">int</mark> page)"
+isStaticfalse"
+accesspublic"
+
+isAbstractfalse"
+typeString*delete2 
+Hma.emsi.patientsmvc.web.PatientController?patientRepositorie@22.31:22.49CALLx
+nC:\Users\proev\Desktop\patients-mvc-version-mysql\src\main\java\ma\emsi\patientsmvc\web\PatientController.java( ((2‹
+Zma.emsi.patientsmvc.web.PatientController.delete(java.lang.Long, java.lang.String, int)!idCALLx
+nC:\Users\proev\Desktop\patients-mvc-version-mysql\src\main\java\ma\emsi\patientsmvc\web\PatientController.java(& (((2ﬁ
+\ma.emsi.patientsmvc.web.PatientController.delete(java.lang.Long, java.lang.String, int)!pageCALLx
+nC:\Users\proev\Desktop\patients-mvc-version-mysql\src\main\java\ma\emsi\patientsmvc\web\PatientController.java)' )(+2·
+_ma.emsi.patientsmvc.web.PatientController.delete(java.lang.Long, java.lang.String, int)!keywordCALLx
+nC:\Users\proev\Desktop\patients-mvc-version-mysql\src\main\java\ma\emsi\patientsmvc\web\PatientController.java)8 )(?2·
+Zma.emsi.patientsmvc.web.PatientController.delete(java.lang.Long, java.lang.String, int)!id	PARAMETERx
+nC:\Users\proev\Desktop\patients-mvc-version-mysql\src\main\java\ma\emsi\patientsmvc\web\PatientController.java' '( 2Ê
+_ma.emsi.patientsmvc.web.PatientController.delete(java.lang.Long, java.lang.String, int)!keyword	PARAMETERx
+nC:\Users\proev\Desktop\patients-mvc-version-mysql\src\main\java\ma\emsi\patientsmvc\web\PatientController.java'( '(/2„
+\ma.emsi.patientsmvc.web.PatientController.delete(java.lang.Long, java.lang.String, int)!page	PARAMETERx
+nC:\Users\proev\Desktop\patients-mvc-version-mysql\src\main\java\ma\emsi\patientsmvc\web\PatientController.java'4 '(82ô
+java.lang.StringRETURN_TYPEx
+nC:\Users\proev\Desktop\patients-mvc-version-mysql\src\main\java\ma\emsi\patientsmvc\web\PatientController.java' '(∂
+Zma.emsi.patientsmvc.web.PatientController.delete(java.lang.Long, java.lang.String, int)!id	PARAMETERx
+nC:\Users\proev\Desktop\patients-mvc-version-mysql\src\main\java\ma\emsi\patientsmvc\web\PatientController.java' '( "
+typeLong"
+isFinalfalse"
+declarationStringLong id*id2ê
+java.lang.LongTYPEx
+nC:\Users\proev\Desktop\patients-mvc-version-mysql\src\main\java\ma\emsi\patientsmvc\web\PatientController.java' '(À
+_ma.emsi.patientsmvc.web.PatientController.delete(java.lang.Long, java.lang.String, int)!keyword	PARAMETERx
+nC:\Users\proev\Desktop\patients-mvc-version-mysql\src\main\java\ma\emsi\patientsmvc\web\PatientController.java'( '(/"
+typeString"
+isFinalfalse"#
+declarationStringString keyword*keyword2í
+java.lang.StringTYPEx
+nC:\Users\proev\Desktop\patients-mvc-version-mysql\src\main\java\ma\emsi\patientsmvc\web\PatientController.java'! '('Õ
+\ma.emsi.patientsmvc.web.PatientController.delete(java.lang.Long, java.lang.String, int)!page	PARAMETERx
+nC:\Users\proev\Desktop\patients-mvc-version-mysql\src\main\java\ma\emsi\patientsmvc\web\PatientController.java'4 '(8"
+typeint"
+isFinalfalse";
+declarationString&<mark class="modifier">int</mark> page*page2Ö
+intTYPEx
+nC:\Users\proev\Desktop\patients-mvc-version-mysql\src\main\java\ma\emsi\patientsmvc\web\PatientController.java'0 '(3Œ
+0ma.emsi.patientsmvc.web.PatientController.home()METHODx
+nC:\Users\proev\Desktop\patients-mvc-version-mysql\src\main\java\ma\emsi\patientsmvc\web\PatientController.java- -("
+isFinalfalse"ô
+declarationStringÉ<mark class="annotation">@GetMapping("/")</mark> <br><mark class="modifier">public </mark>String <mark class="method">home</mark>()"
+isStaticfalse"
+accesspublic"
+
+isAbstractfalse"
+typeString*home2ô
+java.lang.StringRETURN_TYPEx
+nC:\Users\proev\Desktop\patients-mvc-version-mysql\src\main\java\ma\emsi\patientsmvc\web\PatientController.java- -(˝
+7ma.emsi.patientsmvc.web.PatientController.listPatient()METHODx
+nC:\Users\proev\Desktop\patients-mvc-version-mysql\src\main\java\ma\emsi\patientsmvc\web\PatientController.java3 3($"
+isFinalfalse"Ø
+declarationStringô <br><mark class="annotation">@ResponseBody</mark> <br><mark class="modifier">public </mark>List&lt;Patient&gt; <mark class="method">listPatient</mark>()"
+isStaticfalse"
+accesspublic"
+
+isAbstractfalse"
+typeList<Patient>*listPatient2 
+Hma.emsi.patientsmvc.web.PatientController?patientRepositorie@22.31:22.49CALLx
+nC:\Users\proev\Desktop\patients-mvc-version-mysql\src\main\java\ma\emsi\patientsmvc\web\PatientController.java4 4(!2ó
+java.util.ListRETURN_TYPEx
+nC:\Users\proev\Desktop\patients-mvc-version-mysql\src\main\java\ma\emsi\patientsmvc\web\PatientController.java3 3(2∂
+$ma.emsi.patientsmvc.entities.PatientRETURN_TYPE_ARGUMENTx
+nC:\Users\proev\Desktop\patients-mvc-version-mysql\src\main\java\ma\emsi\patientsmvc\web\PatientController.java3 3(è
+
+Tma.emsi.patientsmvc.web.PatientController.formPatients(org.springframework.ui.Model)METHODx
+nC:\Users\proev\Desktop\patients-mvc-version-mysql\src\main\java\ma\emsi\patientsmvc\web\PatientController.java8 8("
+isFinalfalse"∏
+declarationString¢<mark class="annotation">@GetMapping("/formPatients")</mark> <br><mark class="modifier">public </mark>String <mark class="method">formPatients</mark>(Model model)"
+isStaticfalse"
+accesspublic"
+
+isAbstractfalse"
+typeString*formPatients2∞
+.ma.emsi.patientsmvc.entities.Patient.Patient()CALLx
+nC:\Users\proev\Desktop\patients-mvc-version-mysql\src\main\java\ma\emsi\patientsmvc\web\PatientController.java9) 9(02‹
+Zma.emsi.patientsmvc.web.PatientController.formPatients(org.springframework.ui.Model)!modelCALLx
+nC:\Users\proev\Desktop\patients-mvc-version-mysql\src\main\java\ma\emsi\patientsmvc\web\PatientController.java9 9(2·
+Zma.emsi.patientsmvc.web.PatientController.formPatients(org.springframework.ui.Model)!model	PARAMETERx
+nC:\Users\proev\Desktop\patients-mvc-version-mysql\src\main\java\ma\emsi\patientsmvc\web\PatientController.java8% 8(*2ô
+java.lang.StringRETURN_TYPEx
+nC:\Users\proev\Desktop\patients-mvc-version-mysql\src\main\java\ma\emsi\patientsmvc\web\PatientController.java8 8(Ã
+Zma.emsi.patientsmvc.web.PatientController.formPatients(org.springframework.ui.Model)!model	PARAMETERx
+nC:\Users\proev\Desktop\patients-mvc-version-mysql\src\main\java\ma\emsi\patientsmvc\web\PatientController.java8% 8(*"
+typeModel"
+isFinalfalse" 
+declarationStringModel model*model2û
+org.springframework.ui.ModelTYPEx
+nC:\Users\proev\Desktop\patients-mvc-version-mysql\src\main\java\ma\emsi\patientsmvc\web\PatientController.java8 8($È
+∑ma.emsi.patientsmvc.web.PatientController.save(org.springframework.ui.Model, ma.emsi.patientsmvc.entities.Patient, org.springframework.validation.BindingResult, int, java.lang.String)METHODx
+nC:\Users\proev\Desktop\patients-mvc-version-mysql\src\main\java\ma\emsi\patientsmvc\web\PatientController.java> >("
+isFinalfalse"“
+declarationStringº = "0") <mark class="modifier">int</mark> page<mark class="modifier"><mark class="modifier">,</mark></mark> <mark class="annotation">@RequestParam(defaultValue</mark> = "") String keyword)"
+isStaticfalse"
+accesspublic"
+
+isAbstractfalse"
+typeString*save2»
+≈ma.emsi.patientsmvc.web.PatientController.save(org.springframework.ui.Model, ma.emsi.patientsmvc.entities.Patient, org.springframework.validation.BindingResult, int, java.lang.String)!bindingResultCALLx
+nC:\Users\proev\Desktop\patients-mvc-version-mysql\src\main\java\ma\emsi\patientsmvc\web\PatientController.java? ?(2 
+Hma.emsi.patientsmvc.web.PatientController?patientRepositorie@22.31:22.49CALLx
+nC:\Users\proev\Desktop\patients-mvc-version-mysql\src\main\java\ma\emsi\patientsmvc\web\PatientController.java@ @(2¬
+øma.emsi.patientsmvc.web.PatientController.save(org.springframework.ui.Model, ma.emsi.patientsmvc.entities.Patient, org.springframework.validation.BindingResult, int, java.lang.String)!patientCALLx
+nC:\Users\proev\Desktop\patients-mvc-version-mysql\src\main\java\ma\emsi\patientsmvc\web\PatientController.java@  @('2ø
+ºma.emsi.patientsmvc.web.PatientController.save(org.springframework.ui.Model, ma.emsi.patientsmvc.entities.Patient, org.springframework.validation.BindingResult, int, java.lang.String)!pageCALLx
+nC:\Users\proev\Desktop\patients-mvc-version-mysql\src\main\java\ma\emsi\patientsmvc\web\PatientController.javaA& A(*2¬
+øma.emsi.patientsmvc.web.PatientController.save(org.springframework.ui.Model, ma.emsi.patientsmvc.entities.Patient, org.springframework.validation.BindingResult, int, java.lang.String)!keywordCALLx
+nC:\Users\proev\Desktop\patients-mvc-version-mysql\src\main\java\ma\emsi\patientsmvc\web\PatientController.javaA6 A(=2≈
+Ωma.emsi.patientsmvc.web.PatientController.save(org.springframework.ui.Model, ma.emsi.patientsmvc.entities.Patient, org.springframework.validation.BindingResult, int, java.lang.String)!model	PARAMETERx
+nC:\Users\proev\Desktop\patients-mvc-version-mysql\src\main\java\ma\emsi\patientsmvc\web\PatientController.java> >("2«
+øma.emsi.patientsmvc.web.PatientController.save(org.springframework.ui.Model, ma.emsi.patientsmvc.entities.Patient, org.springframework.validation.BindingResult, int, java.lang.String)!patient	PARAMETERx
+nC:\Users\proev\Desktop\patients-mvc-version-mysql\src\main\java\ma\emsi\patientsmvc\web\PatientController.java>3 >(:2Õ
+≈ma.emsi.patientsmvc.web.PatientController.save(org.springframework.ui.Model, ma.emsi.patientsmvc.entities.Patient, org.springframework.validation.BindingResult, int, java.lang.String)!bindingResult	PARAMETERx
+nC:\Users\proev\Desktop\patients-mvc-version-mysql\src\main\java\ma\emsi\patientsmvc\web\PatientController.java>J >(W2≈
+ºma.emsi.patientsmvc.web.PatientController.save(org.springframework.ui.Model, ma.emsi.patientsmvc.entities.Patient, org.springframework.validation.BindingResult, int, java.lang.String)!page	PARAMETERy
+nC:\Users\proev\Desktop\patients-mvc-version-mysql\src\main\java\ma\emsi\patientsmvc\web\PatientController.java>~ >(Ç2…
+øma.emsi.patientsmvc.web.PatientController.save(org.springframework.ui.Model, ma.emsi.patientsmvc.entities.Patient, org.springframework.validation.BindingResult, int, java.lang.String)!keyword	PARAMETERz
+nC:\Users\proev\Desktop\patients-mvc-version-mysql\src\main\java\ma\emsi\patientsmvc\web\PatientController.java>´ >(≤2ô
+java.lang.StringRETURN_TYPEx
+nC:\Users\proev\Desktop\patients-mvc-version-mysql\src\main\java\ma\emsi\patientsmvc\web\PatientController.java> >(∞
+Ωma.emsi.patientsmvc.web.PatientController.save(org.springframework.ui.Model, ma.emsi.patientsmvc.entities.Patient, org.springframework.validation.BindingResult, int, java.lang.String)!model	PARAMETERx
+nC:\Users\proev\Desktop\patients-mvc-version-mysql\src\main\java\ma\emsi\patientsmvc\web\PatientController.java> >(""
+typeModel"
+isFinalfalse" 
+declarationStringModel model*model2û
+org.springframework.ui.ModelTYPEx
+nC:\Users\proev\Desktop\patients-mvc-version-mysql\src\main\java\ma\emsi\patientsmvc\web\PatientController.java> >(È
+øma.emsi.patientsmvc.web.PatientController.save(org.springframework.ui.Model, ma.emsi.patientsmvc.entities.Patient, org.springframework.validation.BindingResult, int, java.lang.String)!patient	PARAMETERx
+nC:\Users\proev\Desktop\patients-mvc-version-mysql\src\main\java\ma\emsi\patientsmvc\web\PatientController.java>3 >(:"
+typePatient"
+isFinalfalse"K
+declarationString6<mark class="annotation">@Valid</mark> Patient patient*patient2¶
+$ma.emsi.patientsmvc.entities.PatientTYPEx
+nC:\Users\proev\Desktop\patients-mvc-version-mysql\src\main\java\ma\emsi\patientsmvc\web\PatientController.java>+ >(2Ë
+≈ma.emsi.patientsmvc.web.PatientController.save(org.springframework.ui.Model, ma.emsi.patientsmvc.entities.Patient, org.springframework.validation.BindingResult, int, java.lang.String)!bindingResult	PARAMETERx
+nC:\Users\proev\Desktop\patients-mvc-version-mysql\src\main\java\ma\emsi\patientsmvc\web\PatientController.java>J >(W"
+typeBindingResult"
+isFinalfalse"0
+declarationStringBindingResult bindingResult*bindingResult2Æ
+,org.springframework.validation.BindingResultTYPEx
+nC:\Users\proev\Desktop\patients-mvc-version-mysql\src\main\java\ma\emsi\patientsmvc\web\PatientController.java>< >(IÒ
+ºma.emsi.patientsmvc.web.PatientController.save(org.springframework.ui.Model, ma.emsi.patientsmvc.entities.Patient, org.springframework.validation.BindingResult, int, java.lang.String)!page	PARAMETERy
+nC:\Users\proev\Desktop\patients-mvc-version-mysql\src\main\java\ma\emsi\patientsmvc\web\PatientController.java>~ >(Ç"
+typeint"
+isFinalfalse"}
+declarationStringh<mark class="annotation">@RequestParam(defaultValue = "0")</mark> <mark class="modifier">int</mark> page*page2Ö
+intTYPEx
+nC:\Users\proev\Desktop\patients-mvc-version-mysql\src\main\java\ma\emsi\patientsmvc\web\PatientController.java>z >(}Ò
+øma.emsi.patientsmvc.web.PatientController.save(org.springframework.ui.Model, ma.emsi.patientsmvc.entities.Patient, org.springframework.validation.BindingResult, int, java.lang.String)!keyword	PARAMETERz
+nC:\Users\proev\Desktop\patients-mvc-version-mysql\src\main\java\ma\emsi\patientsmvc\web\PatientController.java>´ >(≤"
+typeString"
+isFinalfalse"d
+declarationStringO<mark class="annotation">@RequestParam(defaultValue = "")</mark> String keyword*keyword2î
+java.lang.StringTYPEz
+nC:\Users\proev\Desktop\patients-mvc-version-mysql\src\main\java\ma\emsi\patientsmvc\web\PatientController.java>§ >(™ﬁ%
+{ma.emsi.patientsmvc.web.PatientController.editPatients(org.springframework.ui.Model, java.lang.Long, java.lang.String, int)METHODx
+nC:\Users\proev\Desktop\patients-mvc-version-mysql\src\main\java\ma\emsi\patientsmvc\web\PatientController.javaE E("
+isFinalfalse"≠
+declarationStringó<mark class="annotation">@GetMapping("/editPatients")</mark> <br><mark class="modifier">public </mark>String <mark class="method">editPatients</mark>(Model model<mark class="modifier"><mark class="modifier">,</mark></mark> Long id<mark class="modifier"><mark class="modifier">,</mark></mark> String keyword<mark class="modifier"><mark class="modifier">,</mark></mark> <mark class="modifier">int</mark> page)"
+isStaticfalse"
+accesspublic"
+
+isAbstractfalse"
+typeString*editPatients2ø
+=java.lang.RuntimeException.RuntimeException(java.lang.String)CALLx
+nC:\Users\proev\Desktop\patients-mvc-version-mysql\src\main\java\ma\emsi\patientsmvc\web\PatientController.javaG# G(32 
+Hma.emsi.patientsmvc.web.PatientController?patientRepositorie@22.31:22.49CALLx
+nC:\Users\proev\Desktop\patients-mvc-version-mysql\src\main\java\ma\emsi\patientsmvc\web\PatientController.javaF F(,2Ä
+~ma.emsi.patientsmvc.web.PatientController.editPatients(org.springframework.ui.Model, java.lang.Long, java.lang.String, int)!idCALLx
+nC:\Users\proev\Desktop\patients-mvc-version-mysql\src\main\java\ma\emsi\patientsmvc\web\PatientController.javaF6 F(82í
+èma.emsi.patientsmvc.web.PatientController.editPatients(org.springframework.ui.Model, java.lang.Long, java.lang.String, int)?patient@70.16:70.23CALLx
+nC:\Users\proev\Desktop\patients-mvc-version-mysql\src\main\java\ma\emsi\patientsmvc\web\PatientController.javaG G(2Ñ
+Åma.emsi.patientsmvc.web.PatientController.editPatients(org.springframework.ui.Model, java.lang.Long, java.lang.String, int)!modelCALLx
+nC:\Users\proev\Desktop\patients-mvc-version-mysql\src\main\java\ma\emsi\patientsmvc\web\PatientController.javaH H(2í
+èma.emsi.patientsmvc.web.PatientController.editPatients(org.springframework.ui.Model, java.lang.Long, java.lang.String, int)?patient@70.16:70.23CALLx
+nC:\Users\proev\Desktop\patients-mvc-version-mysql\src\main\java\ma\emsi\patientsmvc\web\PatientController.javaH% H(,2Ñ
+Åma.emsi.patientsmvc.web.PatientController.editPatients(org.springframework.ui.Model, java.lang.Long, java.lang.String, int)!modelCALLx
+nC:\Users\proev\Desktop\patients-mvc-version-mysql\src\main\java\ma\emsi\patientsmvc\web\PatientController.javaI I(2É
+Äma.emsi.patientsmvc.web.PatientController.editPatients(org.springframework.ui.Model, java.lang.Long, java.lang.String, int)!pageCALLx
+nC:\Users\proev\Desktop\patients-mvc-version-mysql\src\main\java\ma\emsi\patientsmvc\web\PatientController.javaI# I('2Ñ
+Åma.emsi.patientsmvc.web.PatientController.editPatients(org.springframework.ui.Model, java.lang.Long, java.lang.String, int)!modelCALLx
+nC:\Users\proev\Desktop\patients-mvc-version-mysql\src\main\java\ma\emsi\patientsmvc\web\PatientController.javaJ J(2Ü
+Éma.emsi.patientsmvc.web.PatientController.editPatients(org.springframework.ui.Model, java.lang.Long, java.lang.String, int)!keywordCALLx
+nC:\Users\proev\Desktop\patients-mvc-version-mysql\src\main\java\ma\emsi\patientsmvc\web\PatientController.javaJ% J(,2â
+Åma.emsi.patientsmvc.web.PatientController.editPatients(org.springframework.ui.Model, java.lang.Long, java.lang.String, int)!model	PARAMETERx
+nC:\Users\proev\Desktop\patients-mvc-version-mysql\src\main\java\ma\emsi\patientsmvc\web\PatientController.javaE% E(*2Ö
+~ma.emsi.patientsmvc.web.PatientController.editPatients(org.springframework.ui.Model, java.lang.Long, java.lang.String, int)!id	PARAMETERx
+nC:\Users\proev\Desktop\patients-mvc-version-mysql\src\main\java\ma\emsi\patientsmvc\web\PatientController.javaE1 E(32ã
+Éma.emsi.patientsmvc.web.PatientController.editPatients(org.springframework.ui.Model, java.lang.Long, java.lang.String, int)!keyword	PARAMETERx
+nC:\Users\proev\Desktop\patients-mvc-version-mysql\src\main\java\ma\emsi\patientsmvc\web\PatientController.javaE< E(C2à
+Äma.emsi.patientsmvc.web.PatientController.editPatients(org.springframework.ui.Model, java.lang.Long, java.lang.String, int)!page	PARAMETERx
+nC:\Users\proev\Desktop\patients-mvc-version-mysql\src\main\java\ma\emsi\patientsmvc\web\PatientController.javaEI E(M2ô
+èma.emsi.patientsmvc.web.PatientController.editPatients(org.springframework.ui.Model, java.lang.Long, java.lang.String, int)?patient@70.16:70.23DECLARATIONx
+nC:\Users\proev\Desktop\patients-mvc-version-mysql\src\main\java\ma\emsi\patientsmvc\web\PatientController.javaF F(2ô
+java.lang.StringRETURN_TYPEx
+nC:\Users\proev\Desktop\patients-mvc-version-mysql\src\main\java\ma\emsi\patientsmvc\web\PatientController.javaE E(
+èma.emsi.patientsmvc.web.PatientController.editPatients(org.springframework.ui.Model, java.lang.Long, java.lang.String, int)?patient@70.16:70.23VARIABLEx
+nC:\Users\proev\Desktop\patients-mvc-version-mysql\src\main\java\ma\emsi\patientsmvc\web\PatientController.javaF F("
+typePatient"
+isFinalfalse"≤
+declarationStringú<mark class="modifier"> </mark>Patient <mark class="class-field">patient</mark> = patientRepositorie.findById(id).orElse(<mark class="modifier">null</mark>)*patient2¶
+$ma.emsi.patientsmvc.entities.PatientTYPEx
+nC:\Users\proev\Desktop\patients-mvc-version-mysql\src\main\java\ma\emsi\patientsmvc\web\PatientController.javaF F(2 
+Hma.emsi.patientsmvc.web.PatientController?patientRepositorie@22.31:22.49CALLx
+nC:\Users\proev\Desktop\patients-mvc-version-mysql\src\main\java\ma\emsi\patientsmvc\web\PatientController.javaF F(,2Ä
+~ma.emsi.patientsmvc.web.PatientController.editPatients(org.springframework.ui.Model, java.lang.Long, java.lang.String, int)!idCALLx
+nC:\Users\proev\Desktop\patients-mvc-version-mysql\src\main\java\ma\emsi\patientsmvc\web\PatientController.javaF6 F(8Ù
+Åma.emsi.patientsmvc.web.PatientController.editPatients(org.springframework.ui.Model, java.lang.Long, java.lang.String, int)!model	PARAMETERx
+nC:\Users\proev\Desktop\patients-mvc-version-mysql\src\main\java\ma\emsi\patientsmvc\web\PatientController.javaE% E(*"
+typeModel"
+isFinalfalse" 
+declarationStringModel model*model2û
+org.springframework.ui.ModelTYPEx
+nC:\Users\proev\Desktop\patients-mvc-version-mysql\src\main\java\ma\emsi\patientsmvc\web\PatientController.javaE E($⁄
+~ma.emsi.patientsmvc.web.PatientController.editPatients(org.springframework.ui.Model, java.lang.Long, java.lang.String, int)!id	PARAMETERx
+nC:\Users\proev\Desktop\patients-mvc-version-mysql\src\main\java\ma\emsi\patientsmvc\web\PatientController.javaE1 E(3"
+typeLong"
+isFinalfalse"
+declarationStringLong id*id2ê
+java.lang.LongTYPEx
+nC:\Users\proev\Desktop\patients-mvc-version-mysql\src\main\java\ma\emsi\patientsmvc\web\PatientController.javaE, E(0
+Éma.emsi.patientsmvc.web.PatientController.editPatients(org.springframework.ui.Model, java.lang.Long, java.lang.String, int)!keyword	PARAMETERx
+nC:\Users\proev\Desktop\patients-mvc-version-mysql\src\main\java\ma\emsi\patientsmvc\web\PatientController.javaE< E(C"
+typeString"
+isFinalfalse"#
+declarationStringString keyword*keyword2í
+java.lang.StringTYPEx
+nC:\Users\proev\Desktop\patients-mvc-version-mysql\src\main\java\ma\emsi\patientsmvc\web\PatientController.javaE5 E(;Ú
+Äma.emsi.patientsmvc.web.PatientController.editPatients(org.springframework.ui.Model, java.lang.Long, java.lang.String, int)!page	PARAMETERx
+nC:\Users\proev\Desktop\patients-mvc-version-mysql\src\main\java\ma\emsi\patientsmvc\web\PatientController.javaEI E(M"
+typeint"
+isFinalfalse";
+declarationString&<mark class="modifier">int</mark> page*page2Ö
+intTYPEx
+nC:\Users\proev\Desktop\patients-mvc-version-mysql\src\main\java\ma\emsi\patientsmvc\web\PatientController.javaEE E(HÒ
+Hma.emsi.patientsmvc.web.PatientController?patientRepositorie@22.31:22.49VARIABLEx
+nC:\Users\proev\Desktop\patients-mvc-version-mysql\src\main\java\ma\emsi\patientsmvc\web\PatientController.java (1"
+isFinalfalse"
+typePatientRepositorie"Å
+declarationStringl<mark class="modifier">private </mark>PatientRepositorie <mark class="class-field">patientRepositorie</mark>"
+isStaticfalse"
+accessprivate*patientRepositorie2¥
+2ma.emsi.patientsmvc.repositorie.PatientRepositorieTYPEx
+nC:\Users\proev\Desktop\patients-mvc-version-mysql\src\main\java\ma\emsi\patientsmvc\web\PatientController.java (

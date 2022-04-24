@@ -1,0 +1,117 @@
+
+kC:\Users\proev\Desktop\patients-mvc-version-mysql\src\main\java\ma\emsi\patientsmvc\sec\SecurityConfig.javaä
+&ma.emsi.patientsmvc.sec.SecurityConfigCLASSu
+kC:\Users\proev\Desktop\patients-mvc-version-mysql\src\main\java\ma\emsi\patientsmvc\sec\SecurityConfig.java (""
+packagema.emsi.patientsmvc.sec"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"ö
+declarationStringÑ<mark class="annotation">@Configuration</mark> <br><mark class="annotation">@EnableWebSecurity</mark> <br><mark class="modifier">public </mark><mark class="modifier">class </mark>SecurityConfig<mark class="modifier"> extends </mark>WebSecurityConfigurerAdapter"
+accesspublic*SecurityConfig2ú
+ïma.emsi.patientsmvc.sec.SecurityConfig.configure(org.springframework.security.config.annotation.authentication.builders.AuthenticationManagerBuilder)DECLARATIONu
+kC:\Users\proev\Desktop\patients-mvc-version-mysql\src\main\java\ma\emsi\patientsmvc\sec\SecurityConfig.java (2Ä
+zma.emsi.patientsmvc.sec.SecurityConfig.configure(org.springframework.security.config.annotation.web.builders.HttpSecurity)DECLARATIONu
+kC:\Users\proev\Desktop\patients-mvc-version-mysql\src\main\java\ma\emsi\patientsmvc\sec\SecurityConfig.java (2æ
+8ma.emsi.patientsmvc.sec.SecurityConfig.passwordEncoder()DECLARATIONu
+kC:\Users\proev\Desktop\patients-mvc-version-mysql\src\main\java\ma\emsi\patientsmvc\sec\SecurityConfig.java (#2ﬁ
+]org.springframework.security.config.annotation.web.configuration.WebSecurityConfigurerAdapterEXTENDu
+kC:\Users\proev\Desktop\patients-mvc-version-mysql\src\main\java\ma\emsi\patientsmvc\sec\SecurityConfig.java$ (@Ä#
+ïma.emsi.patientsmvc.sec.SecurityConfig.configure(org.springframework.security.config.annotation.authentication.builders.AuthenticationManagerBuilder)METHODu
+kC:\Users\proev\Desktop\patients-mvc-version-mysql\src\main\java\ma\emsi\patientsmvc\sec\SecurityConfig.java ("
+isFinalfalse"§
+declarationStringé<mark class="annotation">@Override</mark> <br><mark class="modifier">protected </mark><mark class="modifier">void</mark> <mark class="method">configure</mark>(AuthenticationManagerBuilder auth)<mark class="modifier"> <mark class="modifier">throws</mark> </mark>Exception"
+isStaticfalse"
+access	protected"
+
+isAbstractfalse"
+typevoid*	configure2∑
+8ma.emsi.patientsmvc.sec.SecurityConfig.passwordEncoder()CALLu
+kC:\Users\proev\Desktop\patients-mvc-version-mysql\src\main\java\ma\emsi\patientsmvc\sec\SecurityConfig.java( (72¨
+-java.io.PrintStream.println(java.lang.String)CALLu
+kC:\Users\proev\Desktop\patients-mvc-version-mysql\src\main\java\ma\emsi\patientsmvc\sec\SecurityConfig.java (2±
+±ma.emsi.patientsmvc.sec.SecurityConfig.configure(org.springframework.security.config.annotation.authentication.builders.AuthenticationManagerBuilder)?passwordEncoder@16.24:16.39CALLu
+kC:\Users\proev\Desktop\patients-mvc-version-mysql\src\main\java\ma\emsi\patientsmvc\sec\SecurityConfig.java ()2¨
+¨ma.emsi.patientsmvc.sec.SecurityConfig.configure(org.springframework.security.config.annotation.authentication.builders.AuthenticationManagerBuilder)?encodedPWD@17.15:17.25CALLu
+kC:\Users\proev\Desktop\patients-mvc-version-mysql\src\main\java\ma\emsi\patientsmvc\sec\SecurityConfig.java (%2ö
+öma.emsi.patientsmvc.sec.SecurityConfig.configure(org.springframework.security.config.annotation.authentication.builders.AuthenticationManagerBuilder)!authCALLu
+kC:\Users\proev\Desktop\patients-mvc-version-mysql\src\main\java\ma\emsi\patientsmvc\sec\SecurityConfig.java (2¨
+¨ma.emsi.patientsmvc.sec.SecurityConfig.configure(org.springframework.security.config.annotation.authentication.builders.AuthenticationManagerBuilder)?encodedPWD@17.15:17.25CALLu
+kC:\Users\proev\Desktop\patients-mvc-version-mysql\src\main\java\ma\emsi\patientsmvc\sec\SecurityConfig.javaA (K2ö
+öma.emsi.patientsmvc.sec.SecurityConfig.configure(org.springframework.security.config.annotation.authentication.builders.AuthenticationManagerBuilder)!authCALLu
+kC:\Users\proev\Desktop\patients-mvc-version-mysql\src\main\java\ma\emsi\patientsmvc\sec\SecurityConfig.java (2±
+±ma.emsi.patientsmvc.sec.SecurityConfig.configure(org.springframework.security.config.annotation.authentication.builders.AuthenticationManagerBuilder)?passwordEncoder@16.24:16.39CALLu
+kC:\Users\proev\Desktop\patients-mvc-version-mysql\src\main\java\ma\emsi\patientsmvc\sec\SecurityConfig.javaA (P2ö
+öma.emsi.patientsmvc.sec.SecurityConfig.configure(org.springframework.security.config.annotation.authentication.builders.AuthenticationManagerBuilder)!authCALLu
+kC:\Users\proev\Desktop\patients-mvc-version-mysql\src\main\java\ma\emsi\patientsmvc\sec\SecurityConfig.java (2±
+±ma.emsi.patientsmvc.sec.SecurityConfig.configure(org.springframework.security.config.annotation.authentication.builders.AuthenticationManagerBuilder)?passwordEncoder@16.24:16.39CALLu
+kC:\Users\proev\Desktop\patients-mvc-version-mysql\src\main\java\ma\emsi\patientsmvc\sec\SecurityConfig.javaA (P2ü
+öma.emsi.patientsmvc.sec.SecurityConfig.configure(org.springframework.security.config.annotation.authentication.builders.AuthenticationManagerBuilder)!auth	PARAMETERu
+kC:\Users\proev\Desktop\patients-mvc-version-mysql\src\main\java\ma\emsi\patientsmvc\sec\SecurityConfig.java: (>2∏
+±ma.emsi.patientsmvc.sec.SecurityConfig.configure(org.springframework.security.config.annotation.authentication.builders.AuthenticationManagerBuilder)?passwordEncoder@16.24:16.39DECLARATIONu
+kC:\Users\proev\Desktop\patients-mvc-version-mysql\src\main\java\ma\emsi\patientsmvc\sec\SecurityConfig.java ('2≥
+¨ma.emsi.patientsmvc.sec.SecurityConfig.configure(org.springframework.security.config.annotation.authentication.builders.AuthenticationManagerBuilder)?encodedPWD@17.15:17.25DECLARATIONu
+kC:\Users\proev\Desktop\patients-mvc-version-mysql\src\main\java\ma\emsi\patientsmvc\sec\SecurityConfig.java (2ä
+voidRETURN_TYPEu
+kC:\Users\proev\Desktop\patients-mvc-version-mysql\src\main\java\ma\emsi\patientsmvc\sec\SecurityConfig.java (Ù
+±ma.emsi.patientsmvc.sec.SecurityConfig.configure(org.springframework.security.config.annotation.authentication.builders.AuthenticationManagerBuilder)?passwordEncoder@16.24:16.39VARIABLEu
+kC:\Users\proev\Desktop\patients-mvc-version-mysql\src\main\java\ma\emsi\patientsmvc\sec\SecurityConfig.java ('"
+typePasswordEncoder"
+isFinalfalse"à
+declarationStrings<mark class="modifier"> </mark>PasswordEncoder <mark class="class-field">passwordEncoder</mark> = passwordEncoder()*passwordEncoder2ª
+<org.springframework.security.crypto.password.PasswordEncoderTYPEu
+kC:\Users\proev\Desktop\patients-mvc-version-mysql\src\main\java\ma\emsi\patientsmvc\sec\SecurityConfig.java (2∑
+8ma.emsi.patientsmvc.sec.SecurityConfig.passwordEncoder()CALLu
+kC:\Users\proev\Desktop\patients-mvc-version-mysql\src\main\java\ma\emsi\patientsmvc\sec\SecurityConfig.java( (7Æ
+¨ma.emsi.patientsmvc.sec.SecurityConfig.configure(org.springframework.security.config.annotation.authentication.builders.AuthenticationManagerBuilder)?encodedPWD@17.15:17.25VARIABLEu
+kC:\Users\proev\Desktop\patients-mvc-version-mysql\src\main\java\ma\emsi\patientsmvc\sec\SecurityConfig.java ("
+typeString"
+isFinalfalse"á
+declarationStringr<mark class="modifier"> </mark>String <mark class="class-field">encodedPWD</mark> = passwordEncoder.encode("1234")*
+encodedPWD2è
+java.lang.StringTYPEu
+kC:\Users\proev\Desktop\patients-mvc-version-mysql\src\main\java\ma\emsi\patientsmvc\sec\SecurityConfig.java (2±
+±ma.emsi.patientsmvc.sec.SecurityConfig.configure(org.springframework.security.config.annotation.authentication.builders.AuthenticationManagerBuilder)?passwordEncoder@16.24:16.39CALLu
+kC:\Users\proev\Desktop\patients-mvc-version-mysql\src\main\java\ma\emsi\patientsmvc\sec\SecurityConfig.java ()˙
+öma.emsi.patientsmvc.sec.SecurityConfig.configure(org.springframework.security.config.annotation.authentication.builders.AuthenticationManagerBuilder)!auth	PARAMETERu
+kC:\Users\proev\Desktop\patients-mvc-version-mysql\src\main\java\ma\emsi\patientsmvc\sec\SecurityConfig.java: (>"$
+typeAuthenticationManagerBuilder"
+isFinalfalse"6
+declarationString!AuthenticationManagerBuilder auth*auth2‚
+corg.springframework.security.config.annotation.authentication.builders.AuthenticationManagerBuilderTYPEu
+kC:\Users\proev\Desktop\patients-mvc-version-mysql\src\main\java\ma\emsi\patientsmvc\sec\SecurityConfig.java (9è
+zma.emsi.patientsmvc.sec.SecurityConfig.configure(org.springframework.security.config.annotation.web.builders.HttpSecurity)METHODu
+kC:\Users\proev\Desktop\patients-mvc-version-mysql\src\main\java\ma\emsi\patientsmvc\sec\SecurityConfig.java ("
+isFinalfalse"î
+declarationString˛<mark class="annotation">@Override</mark> <br><mark class="modifier">protected </mark><mark class="modifier">void</mark> <mark class="method">configure</mark>(HttpSecurity http)<mark class="modifier"> <mark class="modifier">throws</mark> </mark>Exception"
+isStaticfalse"
+access	protected"
+
+isAbstractfalse"
+typevoid*	configure2˛
+ma.emsi.patientsmvc.sec.SecurityConfig.configure(org.springframework.security.config.annotation.web.builders.HttpSecurity)!httpCALLu
+kC:\Users\proev\Desktop\patients-mvc-version-mysql\src\main\java\ma\emsi\patientsmvc\sec\SecurityConfig.java (2˛
+ma.emsi.patientsmvc.sec.SecurityConfig.configure(org.springframework.security.config.annotation.web.builders.HttpSecurity)!httpCALLu
+kC:\Users\proev\Desktop\patients-mvc-version-mysql\src\main\java\ma\emsi\patientsmvc\sec\SecurityConfig.java (2É
+ma.emsi.patientsmvc.sec.SecurityConfig.configure(org.springframework.security.config.annotation.web.builders.HttpSecurity)!http	PARAMETERu
+kC:\Users\proev\Desktop\patients-mvc-version-mysql\src\main\java\ma\emsi\patientsmvc\sec\SecurityConfig.java* (.2ä
+voidRETURN_TYPEu
+kC:\Users\proev\Desktop\patients-mvc-version-mysql\src\main\java\ma\emsi\patientsmvc\sec\SecurityConfig.java (£
+ma.emsi.patientsmvc.sec.SecurityConfig.configure(org.springframework.security.config.annotation.web.builders.HttpSecurity)!http	PARAMETERu
+kC:\Users\proev\Desktop\patients-mvc-version-mysql\src\main\java\ma\emsi\patientsmvc\sec\SecurityConfig.java* (."
+typeHttpSecurity"
+isFinalfalse"&
+declarationStringHttpSecurity http*http2«
+Horg.springframework.security.config.annotation.web.builders.HttpSecurityTYPEu
+kC:\Users\proev\Desktop\patients-mvc-version-mysql\src\main\java\ma\emsi\patientsmvc\sec\SecurityConfig.java ()ú
+8ma.emsi.patientsmvc.sec.SecurityConfig.passwordEncoder()METHODu
+kC:\Users\proev\Desktop\patients-mvc-version-mysql\src\main\java\ma\emsi\patientsmvc\sec\SecurityConfig.java (#"
+isFinalfalse"ú
+declarationStringÜ<mark class="annotation">@Bean</mark> <br><mark class="modifier"> </mark>PasswordEncoder <mark class="method">passwordEncoder</mark>()"
+isStaticfalse"
+accesspackage_private"
+
+isAbstractfalse"
+typePasswordEncoder*passwordEncoder2¬
+<org.springframework.security.crypto.password.PasswordEncoderRETURN_TYPEu
+kC:\Users\proev\Desktop\patients-mvc-version-mysql\src\main\java\ma\emsi\patientsmvc\sec\SecurityConfig.java (

@@ -1,0 +1,51 @@
+
+wC:\Users\proev\Desktop\patients-mvc-version-mysql\src\main\java\ma\emsi\patientsmvc\repositorie\PatientRepositorie.java÷
+
+2ma.emsi.patientsmvc.repositorie.PatientRepositorieTRAITÅ
+wC:\Users\proev\Desktop\patients-mvc-version-mysql\src\main\java\ma\emsi\patientsmvc\repositorie\PatientRepositorie.java (#"*
+packagema.emsi.patientsmvc.repositorie"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"∏
+declarationString¢<mark class="modifier">public </mark><mark class="modifier">interface </mark>PatientRepositorie<mark class="modifier"> extends </mark>JpaRepository<Patient, Long>"
+accesspublic*PatientRepositorie2î
+Äma.emsi.patientsmvc.repositorie.PatientRepositorie.findByNomContains(java.lang.String, org.springframework.data.domain.Pageable)DECLARATIONÅ
+wC:\Users\proev\Desktop\patients-mvc-version-mysql\src\main\java\ma\emsi\patientsmvc\repositorie\PatientRepositorie.java (#2√
+5org.springframework.data.jpa.repository.JpaRepositoryEXTENDÅ
+wC:\Users\proev\Desktop\patients-mvc-version-mysql\src\main\java\ma\emsi\patientsmvc\repositorie\PatientRepositorie.java, (92¿
+$ma.emsi.patientsmvc.entities.PatientEXTEND_TYPE_ARGUMENTÅ
+wC:\Users\proev\Desktop\patients-mvc-version-mysql\src\main\java\ma\emsi\patientsmvc\repositorie\PatientRepositorie.java: (A2™
+java.lang.LongEXTEND_TYPE_ARGUMENTÅ
+wC:\Users\proev\Desktop\patients-mvc-version-mysql\src\main\java\ma\emsi\patientsmvc\repositorie\PatientRepositorie.javaB (Fî
+Äma.emsi.patientsmvc.repositorie.PatientRepositorie.findByNomContains(java.lang.String, org.springframework.data.domain.Pageable)METHODÅ
+wC:\Users\proev\Desktop\patients-mvc-version-mysql\src\main\java\ma\emsi\patientsmvc\repositorie\PatientRepositorie.java (#"
+isFinalfalse"–
+declarationString∫<mark class="modifier"> </mark>Page&lt;Patient&gt; <mark class="method">findByNomContains</mark>(String kw<mark class="modifier"><mark class="modifier">,</mark></mark> Pageable pageable)"
+isStaticfalse"
+accesspackage_private"
+
+isAbstractfalse"
+typePage<Patient>*findByNomContains2ï
+Éma.emsi.patientsmvc.repositorie.PatientRepositorie.findByNomContains(java.lang.String, org.springframework.data.domain.Pageable)!kw	PARAMETERÅ
+wC:\Users\proev\Desktop\patients-mvc-version-mysql\src\main\java\ma\emsi\patientsmvc\repositorie\PatientRepositorie.java+ (-2õ
+âma.emsi.patientsmvc.repositorie.PatientRepositorie.findByNomContains(java.lang.String, org.springframework.data.domain.Pageable)!pageable	PARAMETERÅ
+wC:\Users\proev\Desktop\patients-mvc-version-mysql\src\main\java\ma\emsi\patientsmvc\repositorie\PatientRepositorie.java8 (@2∑
+$org.springframework.data.domain.PageRETURN_TYPEÅ
+wC:\Users\proev\Desktop\patients-mvc-version-mysql\src\main\java\ma\emsi\patientsmvc\repositorie\PatientRepositorie.java (2¿
+$ma.emsi.patientsmvc.entities.PatientRETURN_TYPE_ARGUMENTÅ
+wC:\Users\proev\Desktop\patients-mvc-version-mysql\src\main\java\ma\emsi\patientsmvc\repositorie\PatientRepositorie.java	 (˙
+Éma.emsi.patientsmvc.repositorie.PatientRepositorie.findByNomContains(java.lang.String, org.springframework.data.domain.Pageable)!kw	PARAMETERÅ
+wC:\Users\proev\Desktop\patients-mvc-version-mysql\src\main\java\ma\emsi\patientsmvc\repositorie\PatientRepositorie.java+ (-"
+typeString"
+isFinalfalse"
+declarationString	String kw*kw2ú
+java.lang.StringTYPEÅ
+wC:\Users\proev\Desktop\patients-mvc-version-mysql\src\main\java\ma\emsi\patientsmvc\repositorie\PatientRepositorie.java$ (*®
+âma.emsi.patientsmvc.repositorie.PatientRepositorie.findByNomContains(java.lang.String, org.springframework.data.domain.Pageable)!pageable	PARAMETERÅ
+wC:\Users\proev\Desktop\patients-mvc-version-mysql\src\main\java\ma\emsi\patientsmvc\repositorie\PatientRepositorie.java8 (@"
+typePageable"
+isFinalfalse"&
+declarationStringPageable pageable*pageable2¥
+(org.springframework.data.domain.PageableTYPEÅ
+wC:\Users\proev\Desktop\patients-mvc-version-mysql\src\main\java\ma\emsi\patientsmvc\repositorie\PatientRepositorie.java/ (7

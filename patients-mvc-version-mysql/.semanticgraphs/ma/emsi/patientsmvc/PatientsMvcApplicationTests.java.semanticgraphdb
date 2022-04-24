@@ -1,0 +1,24 @@
+
+tC:\Users\proev\Desktop\patients-mvc-version-mysql\src\test\java\ma\emsi\patientsmvc\PatientsMvcApplicationTests.javaÈ
+/ma.emsi.patientsmvc.PatientsMvcApplicationTestsCLASS~
+tC:\Users\proev\Desktop\patients-mvc-version-mysql\src\test\java\ma\emsi\patientsmvc\PatientsMvcApplicationTests.java (!"
+packagema.emsi.patientsmvc"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"¨
+declarationString’<mark class="annotation">@SpringBootTest</mark> <br><mark class="modifier"> </mark><mark class="modifier">class </mark>PatientsMvcApplicationTests"
+accesspackage_private*PatientsMvcApplicationTests2Í
+>ma.emsi.patientsmvc.PatientsMvcApplicationTests.contextLoads()DECLARATION~
+tC:\Users\proev\Desktop\patients-mvc-version-mysql\src\test\java\ma\emsi\patientsmvc\PatientsMvcApplicationTests.java		 	(þ
+>ma.emsi.patientsmvc.PatientsMvcApplicationTests.contextLoads()METHOD~
+tC:\Users\proev\Desktop\patients-mvc-version-mysql\src\test\java\ma\emsi\patientsmvc\PatientsMvcApplicationTests.java		 	("
+isFinalfalse"¬
+declarationString–<mark class="annotation">@Test</mark> <br><mark class="modifier"> </mark><mark class="modifier">void</mark> <mark class="method">contextLoads</mark>()"
+isStaticfalse"
+accesspackage_private"
+
+isAbstractfalse"
+typevoid*contextLoads2“
+voidRETURN_TYPE~
+tC:\Users\proev\Desktop\patients-mvc-version-mysql\src\test\java\ma\emsi\patientsmvc\PatientsMvcApplicationTests.java	 	(

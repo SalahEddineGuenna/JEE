@@ -1,0 +1,68 @@
+
+iC:\Users\proev\Desktop\patients-mvc-version-mysql\src\main\java\ma\emsi\patientsmvc\entities\Patient.java†
+$ma.emsi.patientsmvc.entities.PatientCLASSs
+iC:\Users\proev\Desktop\patients-mvc-version-mysql\src\main\java\ma\emsi\patientsmvc\entities\Patient.java ("'
+packagema.emsi.patientsmvc.entities"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"«
+declarationString•<mark class="annotation">@Entity</mark> <br><mark class="annotation">@Data</mark> <br><mark class="annotation">@AllArgsConstructor</mark> <br><mark class="annotation">@NoArgsConstructor</mark> <br><mark class="modifier">public </mark><mark class="modifier">class </mark>Patient"
+accesspublic*Patient2·
+3ma.emsi.patientsmvc.entities.Patient?id@17.17:17.19DECLARATIONs
+iC:\Users\proev\Desktop\patients-mvc-version-mysql\src\main\java\ma\emsi\patientsmvc\entities\Patient.java (2¸
+4ma.emsi.patientsmvc.entities.Patient?nom@20.19:20.22DECLARATIONs
+iC:\Users\proev\Desktop\patients-mvc-version-mysql\src\main\java\ma\emsi\patientsmvc\entities\Patient.java (2Â
+>ma.emsi.patientsmvc.entities.Patient?dateNaissance@23.17:23.30DECLARATIONs
+iC:\Users\proev\Desktop\patients-mvc-version-mysql\src\main\java\ma\emsi\patientsmvc\entities\Patient.java (2»
+7ma.emsi.patientsmvc.entities.Patient?malade@24.20:24.26DECLARATIONs
+iC:\Users\proev\Desktop\patients-mvc-version-mysql\src\main\java\ma\emsi\patientsmvc\entities\Patient.java (2º
+6ma.emsi.patientsmvc.entities.Patient?score@26.16:26.21DECLARATIONs
+iC:\Users\proev\Desktop\patients-mvc-version-mysql\src\main\java\ma\emsi\patientsmvc\entities\Patient.java (ù
+3ma.emsi.patientsmvc.entities.Patient?id@17.17:17.19VARIABLEs
+iC:\Users\proev\Desktop\patients-mvc-version-mysql\src\main\java\ma\emsi\patientsmvc\entities\Patient.java ("
+isFinalfalse"
+typeLong"c
+declarationStringN<mark class="modifier">private </mark>Long <mark class="class-field">id</mark>"
+isStaticfalse"
+accessprivate*id2“
+javax.persistence.LongTYPEs
+iC:\Users\proev\Desktop\patients-mvc-version-mysql\src\main\java\ma\emsi\patientsmvc\entities\Patient.java (§
+4ma.emsi.patientsmvc.entities.Patient?nom@20.19:20.22VARIABLEs
+iC:\Users\proev\Desktop\patients-mvc-version-mysql\src\main\java\ma\emsi\patientsmvc\entities\Patient.java ("
+isFinalfalse"
+typeString"Š
+declarationStringu<mark class="modifier">private </mark>String <mark class="class-field">nom</mark> = 4, max = 40)
+private String nom;"
+isStaticfalse"
+accessprivate*nom2•
+javax.persistence.StringTYPEs
+iC:\Users\proev\Desktop\patients-mvc-version-mysql\src\main\java\ma\emsi\patientsmvc\entities\Patient.java (Á
+>ma.emsi.patientsmvc.entities.Patient?dateNaissance@23.17:23.30VARIABLEs
+iC:\Users\proev\Desktop\patients-mvc-version-mysql\src\main\java\ma\emsi\patientsmvc\entities\Patient.java ("
+isFinalfalse"
+typeDate"œ
+declarationString†<mark class="modifier">private </mark>Date <mark class="class-field">dateNaissance</mark> = "yyyy-MM-dd")
+private Date dateNaissance;"
+isStaticfalse"
+accessprivate*dateNaissance2‹
+java.util.DateTYPEs
+iC:\Users\proev\Desktop\patients-mvc-version-mysql\src\main\java\ma\emsi\patientsmvc\entities\Patient.java (›
+7ma.emsi.patientsmvc.entities.Patient?malade@24.20:24.26VARIABLEs
+iC:\Users\proev\Desktop\patients-mvc-version-mysql\src\main\java\ma\emsi\patientsmvc\entities\Patient.java ("
+isFinalfalse"
+typeboolean"ˆ
+declarationStrings<mark class="modifier">private </mark><mark class="modifier">boolean</mark> <mark class="class-field">malade</mark>"
+isStaticfalse"
+accessprivate*malade2„
+booleanTYPEs
+iC:\Users\proev\Desktop\patients-mvc-version-mysql\src\main\java\ma\emsi\patientsmvc\entities\Patient.java (Œ
+6ma.emsi.patientsmvc.entities.Patient?score@26.16:26.21VARIABLEs
+iC:\Users\proev\Desktop\patients-mvc-version-mysql\src\main\java\ma\emsi\patientsmvc\entities\Patient.java ("
+isFinalfalse"
+typeint"ƒ
+declarationStringn<mark class="modifier">private </mark><mark class="modifier">int</mark> <mark class="class-field">score</mark>"
+isStaticfalse"
+accessprivate*score2€
+intTYPEs
+iC:\Users\proev\Desktop\patients-mvc-version-mysql\src\main\java\ma\emsi\patientsmvc\entities\Patient.java (
